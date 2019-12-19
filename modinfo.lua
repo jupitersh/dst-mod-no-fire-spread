@@ -4,7 +4,7 @@ description = [[
 	But there is a side affect that players become immune to fire.
 ]]
 author = "[BSy]Jupiter"
-version = "1.1"
+version = "1.2.0"
 
 forumthread = ""
 
